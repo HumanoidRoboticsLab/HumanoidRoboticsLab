@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-## **UST 및 학연과정**
+<!-- ## **UST 및 학연과정**
 
 다관절 로봇 및 휴머노이드의 설계, 제어와 모션 플래닝과 연관된 연구를 하고 있습니다. 이를 위해 로보틱스, 최적화, 선형대수학, 동역학 지식, 로봇 실험을 위해 프로그래밍 기술을 배우고 연구에 참여하게 됩니다.
 
@@ -51,4 +51,4 @@ nav_order: 5
 # **For non-Korean**
 
 * Currently Humanoid Robotics Lab. has only programs for Koreans.
-
+ -->
