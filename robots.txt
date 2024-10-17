@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://HumanoidRoboticsLab.github.io/HumanoidRoboticsLab/sitemap.xml
+Sitemap: https://HumanoidRoboticsLab.github.io/sitemap.xml
